@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿Question;Option A;Option B;Option C;Option D;Answer
 Which of the following is/are the levels of implementation of data structure ?;Abstract level;Application level;Implementation level;All of the above;D
 A binary search tree whose left subtree and right subtree differ in hight by at most 1 unit is called ?;AVL tree;Red-black tree;Lemma tree;None of the above;A
@@ -19,3 +20,26 @@ What is the time complexity of finding the shortest path in a weighted graph usi
 Which data structure is used to implement a cache with a least recently used (LRU) eviction policy?;Queue;Stack;LinkedList;Hash Table;B
 Which data structure is used to implement a cache with a least recently used (LRU) eviction policy?;Queue;Stack;LinkedList;Hash Table;B
 What is the time complexity of inserting an element in a heap data structure?;O(n);O(nlogn);O(1);O(log n);D
+=======
+﻿Question;Option A;Option B;Option C;Option D;Answer
+Which of the following is/are the levels of implementation of data structure ?;Abstract level;Application level;Implementation level;All of the above;D
+A binary search tree whose left subtree and right subtree differ in hight by at most 1 unit is called ?;AVL tree;Red-black tree;Lemma tree;None of the above;A
+What is the time complexity of inserting an element at the end of an array?;O(1);O(nlogn);O(log n);O(n);A
+In a binary search tree which traversal visits the nodes in ascending order?;Preorder;Inorder;Postorder;Levelorder;B
+Which sorting algorithm has the best average-case time complexity?;Merge Sort;Selection sort;Insertion Sort;Bubble sort;A
+What is the worst-case time complexity of quicksort?;O(n);O(nlogn);O(n^2);O(log n);C
+Which data structure is used in Depth First Search (DFS) algorithm?;Queue;Stack;Heap;Linked List;B
+What is the purpose of a hash table in data structures?;To store data in a sorted manner;To implement priority queues;To provide constant-time access to elements;To sort elements efficiently;C
+Which data structure is used to implement a LIFO behavior?;Queue;Stack;Heap;Tree;A
+What is the time complexity of finding an element in a binary search tree?;O(n);O(nlogn);O(log n);O(n^2);C
+Which data structure is suitable for implementing a breadth-first search (BFS) algorithm?;Queue;Stack;LinkedList;Heap;A
+Which data structure is typically used to implement a priority queue?;Heap;Stack;Queue;LinkedList;A
+What is the time complexity of searching for an element in a hash table with a good hash function?;O(n);O(nlogn);O(n^2);O(1);D
+Which sorting algorithm is known for its stability?;Merge Sort;Selection sort;Quick Sort;Insertion Sort;A
+In a binary search tree which operation is used to find the minimum element?;findMin();getMin();minElement();minValue();A
+Which data structure is used to implement a disjoint-set data structure efficiently?;Array ;Heap;Disjoint-Set Forest;Linked List;C
+What is the time complexity of finding the shortest path in a weighted graph using Dijkstra's algorithm?;O(E log V);O( E );O(V);O(V log V);A
+Which data structure is used to implement a cache with a least recently used (LRU) eviction policy?;Queue;Stack;LinkedList;Hash Table;B
+Which data structure is used to implement a cache with a least recently used (LRU) eviction policy?;Queue;Stack;LinkedList;Hash Table;B
+What is the time complexity of inserting an element in a heap data structure?;O(n);O(nlogn);O(1);O(log n);D
+>>>>>>> ec8e2d038dea4ce62cf659d6a87203cce5f0f3a0
