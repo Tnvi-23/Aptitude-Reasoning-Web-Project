@@ -1,0 +1,20 @@
+Question;Option A;Option B;Option C;Option D;Answer
+Which algorithm is used to find the strongly connected components in a directed graph?;Dijkstra's Algorithm;Prim's Algorithm;Bellman-Ford Algorithm;Tarjan's Algorithm;D
+What is the time complexity of the best-case scenario for quicksort?;O(n);O(nlogn);O(n^2);O(log n);B
+Worst Case Time complexity of accessing an element from a Linked List;O(n);O(nlogn);O(n^2);O(log n);A
+Which of the following is not a fundamental data type in C?;int;String;double;float;B
+Which of the following is not a valid access specifier in Java?;private;public;internal;protected;C
+What is the purpose of the final keyword in Java?;To declare a constant variable;To prevent method overriding;To prevent class inheritance;All of the above;D
+Which of the following is not a valid loop statement in Python?;for;while;do-while;None of the above;C
+What is the purpose of the __init__ method in Python?;To define a constructor for a class;To define a destructor for a class;To define a static method for a class;To define a class method;A
+Which of the following is not a valid HTTP method?;GET;POST;PUT;EXECUTE;D
+What is the purpose of the JOIN clause in SQL?;To combine rows from two or more tables based on a related column between them;To filter rows based on a specified condition;To group rows that have the same values into summary rows;To sort the result set in ascending or descending order;A
+Which of the following is not a valid normalization form?;1NF;2NF;3NF;5NF;D
+What is the purpose of the HAVING clause in SQL?;To filter rows based on a specified condition;To group rows that have the same values into summary rows;To filter groups based on a specified condition;To sort the result set in ascending or descending order;C
+What is the primary goal of machine learning?; To program computers without human intervention;To enable computers to learn from data and improve performance over time;To create AI systems that can outperform humans;To develop complex algorithms for data processing;B
+Which type of machine learning algorithm is trained on labeled data to make predictions on new unseen data?;Unsupervised Learning;Reinforcement Learning;Semi-supervised Learning;Supervised Learning;D
+What is the process of preparing raw data by cleaning transforming and normalizing it for machine learning?;Data Preprocessing;Data Engineering;Data Wrangling;Data Augmentation;A
+In unsupervised learning the primary task is:;Predicting an output value based on input data;Discovering patterns or structures in data;Maximizing cumulative rewards through interactions with the environment;Learning from expert demonstrations;B
+Which machine learning algorithm is inspired by the behavior of neurons in the human brain?;Decision Trees;k-Nearest Neighbors (k-NN);Support Vector Machines (SVM);Artificial Neural Networks (ANN);D
+What is the process of feeding a machine learning model with data to adjust its internal parameters and improve performance?;Model Validation;Model Optimization;Model Training;Model Testing;C
+The loss function in a machine learning model measures:;The number of features used in the model;The complexity of the model;The difference between predicted and actual values;The time taken to train the model;C
